@@ -1,4 +1,4 @@
-i'll[package]
+[package]
 name = "rlua-lua53-sys"
 version = "0.1.2"
 keywords = ["bindings", "lua"]
